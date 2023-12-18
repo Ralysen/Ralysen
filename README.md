@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ralysen
 - 👀 I’m interested in back-end (mainly web development).
 - 🌱 I’m currently learning web development mainly technologies related to java (spring-boot, hibernate) and node.js(express, ts).
-- 💻 My skills include SQL (MySQL), basics of front-end (HTML, CSS, JS) and e2e testing (Cypress) too.
+- 💻 My skills include SQL (MySQL), front-end basics (HTML, CSS, JS) and e2e testing (Cypress) too.
 - 📫 How to reach me: mail: radoslawlyson@gmail.com 
